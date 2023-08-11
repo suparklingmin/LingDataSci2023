@@ -5,7 +5,7 @@
 + 강좌명: 언어데이터과학
 + 강좌번호: M1246.001400 (001)
 + 교수자: 박수민 (mam3b@snu.ac.kr)
-+ 부교재:*[The Open Handbook of Linguistic Data Management](https://direct.mit.edu/books/oa-edited-volume/5244/The-Open-Handbook-of-Linguistic-Data-Management)*
++ 부교재: *[The Open Handbook of Linguistic Data Management](https://direct.mit.edu/books/oa-edited-volume/5244/The-Open-Handbook-of-Linguistic-Data-Management)*
 + 선수과목: [컴퓨터의 개념 및 실습], [언어와 컴퓨터]
 
 ## 일정
