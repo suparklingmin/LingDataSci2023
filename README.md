@@ -13,15 +13,15 @@
 |회차|날짜|제목|슬라이드|실습|데이터|
 |--|--|--|--|--|--|
 |1강|2023-09-04(월)|강의 소개: 오리엔테이션|||
-|2강|2023-09-06(수)|환경 설정: git|||
+|2강|2023-09-06(수)|환경 설정: git|[[02-20230906.pdf](./slides/02-20230906.pdf)]||
 ||2023-09-06(수)|[숙제00] 수강생 배경 조사||||
 ||2023-09-08(금)|[숙제01] git 설치 인증||||
-|3강|2023-09-11(월)|Linux 기초||[[코드](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/03-20230911.MD)]|[[Apicius](https://www.gutenberg.org/ebooks/29728)]|
+|3강|2023-09-11(월)|Linux 기초||[[코드](./notes/03-20230911.MD)]|[[Apicius](https://www.gutenberg.org/ebooks/29728)]|
 |4강|2023-09-13(수)|AWK와 정규표현식을 활용한 텍스트 처리|||
 ||2023-09-15(금)|[숙제02] AWK 연습||||
 |5강|2023-09-18(월)|데이터과학 (1): 데이터의 정의, 언어데이터의 범위, 데이터의 네 가지 범주, 기술통계량|||
-|6강|2023-09-20(수)|데이터과학 (2): numpy||[[기술통계량](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/06-20230920-descriptive-statistics.ipynb)] [[numpy](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/06-20230920-numpy-arrays.ipynb)]|
-||2023-09-22(금)|[숙제03] numpy 연습||[[코드](https://github.com/suparklingmin/LingDataSci2023/blob/main/hw/hw03/bmi.py)]||
+|6강|2023-09-20(수)|데이터과학 (2): numpy||[[기술통계량](./notes/06-20230920-descriptive-statistics.ipynb)] [[numpy](./notes/06-20230920-numpy-arrays.ipynb)]|
+||2023-09-22(금)|[숙제03] numpy 연습||[[bmi.py](./hw/hw03/bmi.py)]||
 |7강|2023-09-25(월)|데이터과학 (3): 다양한 빈도 개념|||
 |8강|2023-09-27(수)|데이터과학 (4): 데이터 시각화|||
 ||2023-10-02(월)|징검다리 휴일-강의 없음||||
