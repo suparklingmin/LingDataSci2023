@@ -21,7 +21,7 @@
 ||2023-09-15(금)|[숙제02] AWK 연습||||
 |5강|2023-09-18(월)|데이터과학 (1): 데이터의 정의, 언어데이터의 범위, 데이터의 네 가지 범주, 기술통계량|||
 |6강|2023-09-20(수)|데이터과학 (2): numpy||[[기술통계량](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/06-20230920-descriptive-statistics.ipynb)] [[numpy](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/06-20230920-numpy-arrays.ipynb)]|
-||2023-09-22(금)|[숙제03] numpy 연습||||
+||2023-09-22(금)|[숙제03] numpy 연습||[[코드](https://github.com/suparklingmin/LingDataSci2023/blob/main/hw/hw03/bmi.py)]||
 |7강|2023-09-25(월)|데이터과학 (3): 다양한 빈도 개념|||
 |8강|2023-09-27(수)|데이터과학 (4): 데이터 시각화|||
 ||2023-10-02(월)|징검다리 휴일-강의 없음||||
