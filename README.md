@@ -23,7 +23,7 @@
 |6강|2023-09-20(수)|데이터과학 (2): numpy|[[6강](./slides/06-20230920.pdf)]|[[기술통계량](./notes/06-20230920-descriptive-statistics.ipynb)] [[numpy](./notes/06-20230920-numpy-arrays.ipynb)]|
 ||2023-09-22(금)|[숙제03] numpy 연습||[[bmi.py](./hw/hw03/bmi.py)]||
 |7강|2023-09-25(월)|데이터과학 (3): 데이터 탐색 및 시각화|[[7강](./slides/07-20230925.pdf)]|[[pandas](./notes/07-20230925-pandas-dataframe.ipynb)] [[seaborn](./notes/07-20230925-visualization.ipynb)]|[[F0](./data/vowel/all-f0.csv)] [[F0-VOT](./data/vowel/women-f0-vot.csv)]|
-|8강|2023-09-27(수)|데이터과학 (4): 다양한 빈도 개념|||[[news-title-gender](https://github.com/suparklingmin/news-title-gender)]|
+|8강|2023-09-27(수)|데이터과학 (4): 다양한 빈도 개념|[[8강](./slides/08-20230927.pdf)]||[[news-title-gender](https://github.com/suparklingmin/news-title-gender)]|
 ||2023-10-04(수)|[숙제04] 논문 요약: 국어 정보화의 방향|||[[국어 정보화의 방향](https://www.korean.go.kr/nkview/nklife/2015_2/25_0205.pdf)]|
 |9강|2023-10-04(수)|텍스트 처리 (1): 문자 인코딩, 한글과 유니코드|||
 ||2023-10-06(금)|[숙제05] Word Cloud||||
