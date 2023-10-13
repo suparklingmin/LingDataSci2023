@@ -20,13 +20,13 @@
 |4강|2023-09-13(수)|AWK 기초|[[4강](./slides/04-20230913.pdf)]|[[awk 기초](./notes/04-20230913.MD)]|
 ||2023-09-15(금)|[숙제02] Linux 및 AWK 연습||[[과제 설명](./hw/hw02/hw02-instruction.pdf)]||
 |5강|2023-09-18(월)|데이터과학 (1): 데이터의 정의, 언어데이터의 범위, 데이터의 네 가지 범주, 기술통계량|[[5강](./slides/05-20230918.pdf)]||
-|6강|2023-09-20(수)|데이터과학 (2): numpy|[[6강](./slides/06-20230920.pdf)]|[[기술통계량](./notes/06-20230920-descriptive-statistics.ipynb)] [[numpy](./notes/06-20230920-numpy-arrays.ipynb)]|
+|6강|2023-09-20(수)|데이터과학 (2): numpy|[[6강](./slides/06-20230920.pdf)]|[[노트북: 기술통계량](./notes/06-20230920-descriptive-statistics.ipynb)] [[노트북: numpy](./notes/06-20230920-numpy-arrays.ipynb)]|
 ||2023-09-22(금)|[숙제03] numpy 연습||[[bmi.py](./hw/hw03/bmi.py)]||
-|7강|2023-09-25(월)|데이터과학 (3): 데이터 탐색 및 시각화|[[7강](./slides/07-20230925.pdf)]|[[pandas](./notes/07-20230925-pandas-dataframe.ipynb)] [[seaborn](./notes/07-20230925-visualization.ipynb)]|[[F0](./data/vowel/all-f0.csv)] [[F0-VOT](./data/vowel/women-f0-vot.csv)]|
+|7강|2023-09-25(월)|데이터과학 (3): 데이터 탐색 및 시각화|[[7강](./slides/07-20230925.pdf)]|[[노트북: pandas](./notes/07-20230925-pandas-dataframe.ipynb)] [[노트북: seaborn](./notes/07-20230925-visualization.ipynb)]|[[F0](./data/vowel/all-f0.csv)] [[F0-VOT](./data/vowel/women-f0-vot.csv)]|
 |8강|2023-09-27(수)|데이터과학 (4): 다양한 빈도 개념|[[8강](./slides/08-20230927.pdf)][[추가](https://github.com/suparklingmin/news-title-gender/blob/main/slides.pdf)]||[[news-title-gender](https://github.com/suparklingmin/news-title-gender)]|
 ||2023-10-04(수)|[숙제04] 논문 요약: 국어 정보화의 방향|||[[국어 정보화의 방향](https://www.korean.go.kr/nkview/nklife/2015_2/25_0205.pdf)]|
 |9강|2023-10-04(수)|텍스트 처리 (1): 문자 인코딩, 한글과 유니코드|[[9강](./slides/09-20231004.pdf)]||
-||2023-10-06(금)|[숙제05] Word Cloud||||
+||2023-10-06(금)|[숙제05] Word Cloud||[[노트북: wordcloud](https://github.com/suparklingmin/LingDataSci2023/blob/main/hw/hw05/hw05-word-cloud.ipynb)]||
 ||2023-10-06(금)|[숙제06] 8주차 발표 논문 선정||||
 |10강|2023-10-11(수)|텍스트 처리 (2): 옛한글, 한문|||
 ||2023-10-13(금)|[숙제07] 모두의 말뭉치 사이트 가입 인증||||
