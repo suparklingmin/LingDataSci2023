@@ -189,3 +189,11 @@ The use of the [Data: Autofilter] to check data entry.
 ### Another task
 
 Naming files and documenting workflow across files.
+
+---
+
+## Quiz
+
+What elements do a concordance display consist of?
+
+Answer: A word and its preceding and subsequent context.
