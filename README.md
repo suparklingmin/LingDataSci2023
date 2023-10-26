@@ -27,19 +27,19 @@
 ||2023-10-04(수)|[숙제04] 논문 요약: 국어 정보화의 방향|||[[국어 정보화의 방향](https://www.korean.go.kr/nkview/nklife/2015_2/25_0205.pdf)]|
 |9강|2023-10-04(수)|텍스트 처리 (1): 문자 인코딩, 한글과 유니코드|[[9강](./slides/09-20231004.pdf)]||
 ||2023-10-06(금)|[숙제05] Word Cloud||[[노트북: wordcloud](https://github.com/suparklingmin/LingDataSci2023/blob/main/hw/hw05/hw05-word-cloud.ipynb)]||
-||2023-10-06(금)|[숙제06] 8주차 발표 논문 선정||||
+||2023-10-06(금)|[숙제06] 9주차 발표 논문 선정||||
 |10강|2023-10-11(수)|텍스트 처리 (2): 옛한글, 한문|||
 ||2023-10-13(금)|[숙제07] 모두의 말뭉치 사이트 가입 인증||||
-|11강|2023-10-16(월)|데이터프레임 처리: Naver Sentiment Movie Corpus, pandas|||
-|12강|2023-10-18(수)|JSON 파일 처리: 모두의 말뭉치|||
-||2023-10-20(금)|[숙제08] pandas 연습||||
-||2023-10-20(금)|[숙제09] 8주차 발표 논문 발제문||||
-|13강|2023-10-23(월)|언어데이터 관리 사례 발표(논문 발제 및 퀴즈) (1)|||
-|14강|2023-10-25(수)|언어데이터 관리 사례 발표(논문 발제 및 퀴즈) (2)|||
-||2023-10-27(금)|[숙제10] 퀴즈||||
-||2023-10-27(금)|[숙제11] 개인 프로젝트 주제 선정||||
-|15강|2023-10-30(월)|데이터 수집 (1): HTML/XML, beautifulsoup, 웹 크롤링|||
-|16강|2023-11-01(수)|데이터 수집 (2): 구글 폼, 크라우드소싱|||
+|11강|2023-10-16(월)|데이터프레임 처리: Naver Sentiment Movie Corpus, pandas||[[노트북: konlpy](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/11-20231016-konlpy-morphological-analysis.ipynb)] [[노트북: wordcloud & nsmc](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/11-20231016-wordcloud-nsmc.ipynb)]|[[Naver sentiment movie corpus](https://github.com/e9t/nsmc)]|
+|12강|2023-10-18(수)|JSON 파일 처리: 모두의 말뭉치 (1)||[[노트북: 대용량 파일 처리](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/12-20231018-preprocessing-modified.ipynb)]|[[모두의 말뭉치](https://corpus.korean.go.kr)]|
+||2023-10-20(금)|[숙제08] pandas 연습||[[노트북: wordcloud revisited](https://github.com/suparklingmin/LingDataSci2023/blob/main/hw/hw08/hw08-nsmc-wordcloud.ipynb)]||
+||2023-10-20(금)|[숙제09] 언어데이터 관리 사례 조사||[[발표 자료 예시](https://github.com/suparklingmin/LingDataSci2023/blob/main/hw/hw09/38-presentation.pdf)]||
+|13강|2023-10-23(월)|JSON 파일 처리: 모두의 말뭉치 (2)||[[노트북: 데이터프레임 구축](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/12-20231018-counting-wanjeon.ipynb)]|[[모두의 말뭉치](https://corpus.korean.go.kr)]|
+|14강|2023-10-25(수)|JSON 파일 처리: 모두의 말뭉치 (3)||[[노트북: 데이터프레임 병합](https://github.com/suparklingmin/LingDataSci2023/blob/main/notes/12-20231018-analyzing-wanjeon.ipynb)]|[[모두의 말뭉치](https://corpus.korean.go.kr)]|
+|15강|2023-10-30(월)|언어데이터 관리 사례 발표(논문 발제 및 퀴즈) (1)|||
+|16강|2023-11-01(수)|언어데이터 관리 사례 발표(논문 발제 및 퀴즈) (2)|||
+||2023-10-27(금)|[숙제10] 언어데이터 관리 사례 퀴즈||||
+||2023-10-27(금)|[숙제11] 개인 프로젝트 주제 선정||[[연구계획서 예시](https://github.com/suparklingmin/LingDataSci2023/blob/main/project/docs/proposal.pdf)]||
 ||2023-11-03(금)|[숙제12] 강의 평가 인증||||
 |17강|2023-11-06(월)|코퍼스 구축 및 관리|||
 |18강|2023-11-08(수)|코퍼스 공개 및 인용|||
