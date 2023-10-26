@@ -1,0 +1,2 @@
+Question: What elements does a concordance display consist of?
+Answer: A word and its preceding and subsequent context.
