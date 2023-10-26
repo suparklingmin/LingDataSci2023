@@ -194,6 +194,6 @@ Naming files and documenting workflow across files.
 
 ## Quiz
 
-What elements does a concordance display consist of?
+What elements do a concordance display consist of?
 
 Answer: A word and its preceding and subsequent context.
